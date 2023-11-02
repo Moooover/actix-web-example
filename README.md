@@ -1,6 +1,7 @@
 #### Break down codebase
-`curls`: Contains useful http requests for tests
-`slides`: Presentation with brief explanation of actix-web rust crate
+* `curls`: Contains useful http requests for tests
+
+* `slides`: Presentation with brief explanation of actix-web rust crate
 
 #### an introduction to actix-web
 
