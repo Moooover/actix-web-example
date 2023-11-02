@@ -1,3 +1,7 @@
+#### Break down codebase
+`curls`: Contains useful http requests for tests
+`slides`: Presentation with brief explanation of actix-web rust crate
+
 #### an introduction to actix-web
 
 > this repo is created for [this online hack and learn](https://berline.rs)
